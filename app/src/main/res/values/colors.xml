@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+
+
+    <color name="red">#F44336</color>
+    <color name="yellow">#FFC107</color>
+
+
+    <color name="change_1">#FF9800</color>
+    <color name="change_2">#FFEB3B</color>
+
+
+
+
+    <color name="my_dark_primary">#FFC107</color>
+    <color name="my_light_primary">#FFC107</color>
+</resources>
